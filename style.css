@@ -1,0 +1,37 @@
+
+html {
+    background-color: rgb(174, 223, 223);
+    font-size: large;
+    border-style: dashed;
+    border-color: rgb(60, 158, 56) ;
+    border-radius: 20px;
+}
+.bc {
+    background-color: rgb(233, 231, 214);
+}
+
+h1 {
+    color:rgb(29, 179, 79) ;
+}
+h2 {
+    color:rgb(248, 134, 248);
+}
+h3{
+    color:rgb(109, 133, 243);
+}
+.cl1{
+    color: rgb(194, 32, 183);
+}
+.cl2 {
+    color: rgb(67, 19, 201);
+}
+a {
+    color: green;
+}
+.cl3 {
+    color: rgb(67, 19, 201);
+}
+.cl4{
+    color: rgb(119, 5, 111);
+    font-size:small;
+}
